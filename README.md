@@ -12,3 +12,7 @@ OxyWalls is an intelligent air purification system built using Arduino. It uses:
 
 This project improves air quality in enclosed spaces by smartly managing exhaust fans and indicating air status visually.
 
+
+
+![Image](https://github.com/user-attachments/assets/47667075-ac5d-4901-9a75-ace430549a27)
+
